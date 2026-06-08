@@ -1,5 +1,6 @@
 # Rust-Py-IDLE
 Basically a Rust-Python Transpiler Use rust code to run Python
+(Rust interpeter written in Python)
 
 **Lightweight and fast**\
 
